@@ -2,8 +2,23 @@ body {
   padding: 0;
   margin: 0;
   background: #E6E6FA;
+}
 
-  h1 {
-    color: #2F4F4F;
-  }
+.header {
+  font-family: 'Courgette', cursive, serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.introduction {
+  font-family: 'Courgette', cursive, serif;
+  font-family: 'Parisienne', cursive, serif;
+  text-align: center;
+}
+
+.tech {
+  height: 700px
+ margin-left: auto;
+ margin-right: auto;
+ width: 50%;
 }
