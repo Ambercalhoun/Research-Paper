@@ -5,20 +5,49 @@ body {
 }
 
 .header {
+/*  background-image:
   font-family: 'Courgette', cursive, serif;
   text-align: center;
   text-transform: uppercase;
+  font-size: 50px;*/
+  position: absolute;
+  text-transform: uppercase;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-weight: bold;
 }
+.container {
+  position: relative;
+    text-align: center;
+    color: white;
 
-.introduction {
+
+}
+/*  .introduction {
   font-family: 'Courgette', cursive, serif;
   font-family: 'Parisienne', cursive, serif;
   text-align: center;
-}
+}*/
 
 .tech {
-  height: 700px
- margin-left: auto;
- margin-right: auto;
- width: 50%;
+  height: 700px;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#introduction {
+  font-family: 'Kaushan Script', cursive, serif;
+  text-align: center;
+  font-size: 39px;
+}
+.opening {
+font-family: 'Niconne', cursive,serif;
+font-size: 40px;
+}
+.Time {
+  font-size: 50px;
+  font-weight: bold;
 }
