@@ -24,6 +24,9 @@ body {
 
 
 
+
+}
+
 }
 /*  .introduction {
   font-family: 'Courgette', cursive, serif;
@@ -60,5 +63,36 @@ background-color: white;
     bottom: 10px;
     left: 12px;
     font-size:42px;
+
+}
+.info {
+font-size:22px;
+text-align: center;
+
+}
+.subtitle {
+font-size: 36px;
+text-align: center;
+
+}
+.photo {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 60%;
+text-align: center;
+
+
+}
+.special{
+font-style: italic;
+text-align: center;
+
+}
+.last{
+width: 45%;
+display: block;
+height: 16px;
+
 
 }
